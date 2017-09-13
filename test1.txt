@@ -1,11 +1,12 @@
 Name: Leah Becker
 Date: 9/11/2017
 
-wow!!
+LOOK!!
 
-This is my first text document for one of Dr. Musick's Media Arts courses.
+This is my first text document for one of Dr. Musick's Media Arts courses!!!
 I've altered this file!!!
 
 I added a new line to this file in my text editor!!!
+ I just deleted a line
 
-adding a new line!!
+ and I'm adding another!!!
