@@ -30,4 +30,4 @@ provided on the course website. I unfortunately started on Monday, but spent the
 
 ## Here's a screenshot of my Markup
 
-![Image of my editor](markup.jpg)
+![Image of my editor](markup.JPG)
