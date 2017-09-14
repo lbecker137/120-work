@@ -31,3 +31,6 @@ provided on the course website. I unfortunately started on Monday, but spent the
 ## Here's a screenshot of my Markup
 
 ![Image of my editor](markup.JPG)
+
+### also here's a link to an amazing video
+[this guy can juggle and solve Rubiks cubes at the same time](https://www.youtube.com/watch?v=kF9WbaJ0GZ4)
