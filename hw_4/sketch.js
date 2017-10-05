@@ -9,19 +9,21 @@ function draw() {
     push();
     translate(400,300);
 
-    // head
+    /*head. I wasn't sure at first how I was going to make this
+     My original plan was to have a full basilisk, but I couldn't picture
+     it */
 
     fill('green')
     strokeWeight(0);
-    rect(20,-150,200,150,0,90,90,0);
+    rect(20,-150,200,150,0,90,90,0); // this is the snout.
     ellipse(-120,-80,350,270);
     triangle(-70,-200, 30, -100, 70,-150);
     ellipse(-190,0,200,200);
     triangle(-180,100,29,-50,140,0);
 
-    // nose
-    fill('black');
-    ellipse(150,-110,30,30);
+    // nose.
+    fill('black');                // I was just planning on this
+    ellipse(150,-110,30,30);     // being a black circle
 
     //eye
     ellipse(-80,-130,60,50);
@@ -34,7 +36,7 @@ function draw() {
       triangle(i,0,i+10,0,i+5,20);
     }
 
-    //spines
+    //spines. 
     fill('green');
     triangle(140,-140,180,-140,130,-170);
     triangle(-280,-130,-320,-150,-250,-170);
