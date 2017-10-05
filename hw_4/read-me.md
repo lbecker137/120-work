@@ -17,4 +17,4 @@ Once again I didn't have any significant problems with the code (woohoo!). When 
 
 ## My monster
 
-![here's my monster](dragon.JPG)
+![here's my monster](images/dragon.JPG)
