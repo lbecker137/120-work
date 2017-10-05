@@ -13,7 +13,7 @@ I'm really enjoying p5.js! I also decided to explore the language a bit more and
 As I said last week, I'm definitely getting used to different syntax again. I keep expecting certain python things to work and I keep forgetting the semicolon. I also did a very poor job of budgeting time this week. I got a late start on the class work and really felt the time crunch because of it.
 
 ## Problems
-Once again I didn't have any significant problems with the code (woohoo!). When I started the assignment, I did have an issue where the canvas wouldn't appear in the browser. I'm still not sure why I had this error because I just started a new sketch.js file and rewrote the code I had (which was only the createcanvas and background functions) and it worked fine from then on. 
+Once again I didn't have any significant problems with the code (woohoo!). When I started the assignment, I did have an issue where the canvas wouldn't appear in the browser. I'm still not sure why I had this error because I just started a new sketch.js file and rewrote the code I had (which was only the createcanvas and background functions) and it worked fine from then on.
 
 ## My monster
 
