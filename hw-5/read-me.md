@@ -14,6 +14,6 @@ produce my original code. I was reminded of one of my favorite parts of coding t
 ![whoops](images/mistake.JPG)   
 I then spent far to long just playing with that code. I also spent a fair bit of time experimenting with loops and conditionals. Most of them were not added in my final code, but there is one if statement.
 
-## Screenshot of my code 
+## Screenshot of my code
 
-![my animation](images/ghost.PNG)
+![my animation](images/Ghost.PNG)
