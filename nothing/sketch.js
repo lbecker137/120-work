@@ -13,16 +13,13 @@ var brick = {};
 brick.length= 20;
 brick.height = 5;
 
-var brick_wall =[];
+var brick_wall =[1,2,3,4,5];
 
 var lossCounter;
 
 function setup() {
     createCanvas(windowWidth,windowHeight);
     lossCounter = 0;
-    for(var i=1; i<=10; i++){
-      brick_wall.push(rect(i+25, 30, brick.length, brick.height));
-    }
 }
 
 
@@ -33,9 +30,10 @@ function draw() {
     ball.x += ball.delta_x * ball.scale_x;
     ball.y += ball.delta_y * ball.scale_y;
 
-    for(var i=0; i<= brick_wall.length; i++){
-      brick_wall[i].display();
-    }
+   for (var i=1, i<=brick_wall.length, i++){
+     fill(random(255),random(255),random(255));
+     rect(i*2, 10, brick.length, brick.height);
+   }
 
 
     if (ball.x >= width-20 || ball.x <= 20) {
