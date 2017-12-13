@@ -40,6 +40,7 @@ function setup(){
     brick_x+=30;
   }
   frameRate(120);
+  noCursor();
 }
 
 // draw function
